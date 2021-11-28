@@ -1,0 +1,19 @@
+@media screen and (max-width: 900px) {
+    .container {
+        width: auto;
+    }
+
+}
+
+@media screen and (max-width : 480px) {
+    .container input {
+        width: 90%;
+    }
+
+    #nomeAluno {
+        max-width: 90%;
+    }
+
+
+
+}
